@@ -1,2 +1,0 @@
-// Boty:
-bot_add
