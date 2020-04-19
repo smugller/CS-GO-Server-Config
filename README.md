@@ -13,9 +13,10 @@ Requirements on Server-Side:
 - [x] **MetaMod** _Stable_ version or _Latest_ is required:
 - Link: [https://www.sourcemm.net/downloads.php?branch=stable](https://www.sourcemm.net/downloads.php?branch=stable)
 - Repo: [https://github.com/alliedmodders/metamod-source](https://github.com/alliedmodders/metamod-source)
+
 - [x] **SourceMod** _Stable_ version or _Latest_ is required:
 - Link: [https://www.sourcemod.net/downloads.php?branch=stable](https://www.sourcemod.net/downloads.php?branch=stable)
-  Repo: [https://github.com/alliedmodders/sourcemod](https://github.com/alliedmodders/sourcemod)
+- Repo: [https://github.com/alliedmodders/sourcemod](https://github.com/alliedmodders/sourcemod)
 
 If you have SourceMod installed you can use SourceMod special admin commands. List with all commands you can find here: [Admin Commands (SourceMod)](<https://wiki.alliedmods.net/Admin_Commands_(SourceMod)>)
 
