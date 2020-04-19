@@ -26,13 +26,13 @@ If you have SourceMod installed you can use SourceMod special admin commands. Li
 
    ( _The correct path should be look like this:_ **`../csgo/cfg/superconfig/`** )
 
-2. If you have LGSM installed, open the configuration file **`../csgo/cfg/csgoserver.cfg`** and add at the end of this file a new line:
+2. If you have LGSM installed, open the configuration file in **`../csgo/cfg/csgoserver.cfg`** and add at the end of this file a new line:
 
    > **`exec "superconfig/main.cfg"`**
 
    This simply link our **`main.cfg`** file from **`../csgo/cfg/superconfig/`** directory and execute rest config files.
 
-3. Save and exit from the **`../csgo/cfg/csgoserver.cfg`**
+3. Save and exit from **`../csgo/cfg/csgoserver.cfg`** file.
 4. You can use commands that are include in **`../csgo/cfg/superconfig/alias.cfg`** file. Have fun!
 
 # Customize
@@ -63,8 +63,9 @@ Here are the best client config that i found on the whole internet.
 
 ## Client Config
 
-Source: [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec)
 ArminC's configuration for CS:GO Client - well documented, analysed and no misconceptions.
+
+> Source: [ArminC-AutoExec](https://github.com/ArmynC/ArminC-AutoExec)
 
 # TODO
 
