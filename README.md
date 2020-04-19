@@ -23,6 +23,7 @@ If you have SourceMod installed you can use SourceMod special admin commands. Li
 ## B) How to install server config from this repo
 
 1. In CS:GO server directory make a folder in **`../csgo/cfg/`** and name this folder **`superconfig`**
+
    ( _The correct path should be look like this:_ **`../csgo/cfg/superconfig/`** )
 
 2. If you have LGSM installed, open the configuration file **`../csgo/cfg/csgoserver.cfg`** and add at the end of this file a new line:
