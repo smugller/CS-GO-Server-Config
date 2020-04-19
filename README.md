@@ -25,15 +25,15 @@ If you have SourceMod installed you can use SourceMod special admin commands. Li
 1. In CS:GO server directory make a folder in **`../csgo/cfg/`** and name this folder **`superconfig`**
 
    ( _The correct path should be look like this:_ **`../csgo/cfg/superconfig/`** )
-
-2. If you have LGSM installed, open the configuration file in **`../csgo/cfg/csgoserver.cfg`** and add at the end of this file a new line:
+2. Copy all files from this repository to **`../csgo/cfg/superconfig/`** directory.
+3. If you have LGSM installed, open the configuration file in **`../csgo/cfg/csgoserver.cfg`** and add at the end of this file a new line:
 
    > **`exec "superconfig/main.cfg"`**
 
    This simply link our **`main.cfg`** file from **`../csgo/cfg/superconfig/`** directory and execute rest config files.
 
-3. Save and exit from **`../csgo/cfg/csgoserver.cfg`** file.
-4. You can use commands that are include in **`../csgo/cfg/superconfig/alias.cfg`** file. Have fun!
+4. Save and exit from **`../csgo/cfg/csgoserver.cfg`** file.
+5. You can use commands that are include in **`../csgo/cfg/superconfig/alias.cfg`** file. Have fun!
 
 # Customize
 
