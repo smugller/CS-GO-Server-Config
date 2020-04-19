@@ -69,6 +69,7 @@ ArminC's configuration for CS:GO Client - well documented, analysed and no misco
 # TODO
 
 - [ ] Translate description from Polish to English
+- [ ] Sort commands in bots.cfg file
 - [x] Fix commands from alias.cfg
 
 # Contact
