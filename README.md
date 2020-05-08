@@ -41,9 +41,9 @@ If you wanna help or customize my project easily, you can use some of my tips.
 
 ## Syntax highlighting for VSCode with .cfg file support
 
-This plugin for Visual Studio Code help you read .cfg source files. It's workaround plugin and didn't highlight all cvars so keep that in mind. These repo need to be updated anyway in the future.
+You can use my syntax highlighting plugin and make .cfg files easy to read. Check it now!
 
-> Source: [language-csgo-cfg](https://github.com/dirtlxiv/language-csgo-cfg)
+> Source: [cfg-syntax-highlighting](https://github.com/smugller/cfg-syntax-highlighting)
 
 ## How to get all latest cvars from source engine?
 
@@ -69,8 +69,13 @@ ArminC's configuration for CS:GO Client - well documented, analysed and no misco
 
 # TODO
 
+- [ ] Add reset.cfg file to set all commands to default values (Only commands that we use on this repo, maybe not all)
+- [ ] Add config for warmup and trening mode
+- [ ] Add missing descriptions for commands
 - [ ] Translate description from Polish to English
+- [ ] Sort network commands in server.cfg for better optimizations
 - [ ] Sort commands in bots.cfg file
+- [ ] Sort commands for gotv
 - [x] Fix commands from alias.cfg
 
 # Contact
